@@ -14,7 +14,7 @@
       HTML WRAPPER
       MAJOR DOCUMENT STRUCTURES
       PAGE, COLUMN, AND LINE BREAKS
-      
+      This version resides in my GitHub repo
       
       MAJOR TEXTUAL STRUCTURES
       SORTING AND FORMATTING LISTS
